@@ -41,7 +41,7 @@ Multimodal data fusion generates robust and unified representations considering 
 | Event | 579 | 803 | 96 | 
 
 # Proposal
-![Proposal](/images/proposal.png)
+![Proposal](/images/pipeline.png)
 
 # Results
 ![Results](/images/results.png)
