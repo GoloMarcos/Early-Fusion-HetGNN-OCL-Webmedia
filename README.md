@@ -34,7 +34,7 @@ Multimodal data fusion generates robust and unified representations considering 
 
 
 | Datasets | Nodes | Edges | Nodes with initial features 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | Fake News | 10348 | 318411 | 2064 |
 | Rec. Sys. | 8774 | 30471 | 2397 | 
 | Music | 2125 | 5243 | 1529 | 
