@@ -41,10 +41,10 @@ Multimodal data fusion generates robust and unified representations considering 
 | Event | 579 | 803 | 96 | 
 
 # Proposal
-![Proposal](/images/pipeline.png)
+![Proposal](/images/pipeline.jpg)
 
 # Results
 ![Results](/images/results.png)
 
 # TSNE on FCN
-![TSNE](/images/tsne.png)
+![TSNE](/images/tsne.jpg)
